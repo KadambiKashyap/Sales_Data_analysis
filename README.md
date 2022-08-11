@@ -2,7 +2,7 @@
  - - - -
 Set of real world data science tasks completed using the Python Pandas library.
 
-# Background Information
+## Background Information
  - - - -
 In this repo, Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
@@ -12,7 +12,7 @@ We start by cleaning the data. Following are the steps taken to clean the data a
 * Removing null rows based on a condition
 * Change the datatypes of columns using (to_numeric, to_datetime, astype)
 
-# Data Exploration
+### Data Exploration
  - - - -
 Once the data is finished cleaning up the data a bit, moved to the data exploration section. In this section we explore 5 high level business questions related to the data:
 
