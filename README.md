@@ -16,11 +16,11 @@ We start by cleaning the data. Following are the steps taken to clean the data a
  - - - -
 Once the data is finished cleaning up the data a bit, moved to the data exploration section. In this section we explore 5 high level business questions related to the data:
 
-*What was the best month for sales? How much was earned that month?
-*What city sold the most product?
-*What time should the advertisements are to be displayed to maximize the likelihood of customer’s buying product?
-*What products are most often sold together?
-*What product sold the most? Why do you think it sold the most?
+* What was the best month for sales? How much was earned that month?
+* What city sold the most product?
+* What time should the advertisements are to be displayed to maximize the likelihood of customer’s buying product?
+* What products are most often sold together?
+* What product sold the most? Why do you think it sold the most?
 
 To answer these questions worked through many different pandas & matplotlib methods which include:
 
